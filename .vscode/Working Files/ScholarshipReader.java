@@ -32,7 +32,6 @@ class Scholarship {
             ", Preferred Major: " + major + '\'' + ", Minimum GPA: " + gpaMinimum +
             ", Due Date: " + dateFormat.format(dueDate);
     }
-
 }
 
 

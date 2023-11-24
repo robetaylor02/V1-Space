@@ -45,6 +45,7 @@ public class Donor {
         System.out.println("| Enter 'a' to process Reviewable Applications Report |");
         System.out.println("| Enter 'x' to exit                                   |");
         System.out.println("+-----------------------------------------------------+");
+
     }
 
     private static char getUserChoice() {

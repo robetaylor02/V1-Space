@@ -40,6 +40,7 @@ public class Admin {
         System.out.println("| Enter 'b' to process Disbursement Report        |");
         System.out.println("| Enter 'x' to exit                               |");
         System.out.println("+-------------------------------------------------+");
+
     }
 
     private static char getUserChoice() {
