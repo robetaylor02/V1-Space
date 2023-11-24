@@ -67,8 +67,8 @@ public class ScholarshipReader {
 
 
 public static void main(String[] args) {
-        String inputFilePath = "scholarships_Data.csv"; // Replace with the actual path to your CSV file
-        String outputFilePath = "Report_X.txt"; // Replace with the desired output file path
+        String inputFilePath = "newScholarships_Data.csv"; 
+        String outputFilePath = "Report_X.txt"; 
 
         Scholarship[] scholarships = readScholarships(inputFilePath);
 

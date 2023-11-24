@@ -19,12 +19,15 @@ public class Student {
             // Process the user's choice
             switch (choice) {
                 case 'a':
-                    System.out.println("Generating Report A...");
+                    System.out.println("Generating Applicant Profile Report...");
                     break;
                 case 'b':
-                    System.out.println("Generating Report B...");
+                    System.out.println("Generating Scholarship Match Report...");
                     break;
-                case 'e':
+                case 'c':
+                    System.out.println("Generating Scholarship Status Report...");
+                    break;
+                case 'x':
                     System.out.println("Exiting program. Goodbye!");
                     System.exit(0);
             }
@@ -35,11 +38,12 @@ public class Student {
     }
 
     private static void displayMenu() {
-        System.out.println("+------------------------------+");
-        System.out.println("| Enter 'a' to create report A |");
-        System.out.println("| Enter 'b' to create report B |");
-        System.out.println("| Enter 'e' to exit            |");
-        System.out.println("+------------------------------+");
+        System.out.println("+------------------------------------------------------+");
+        System.out.println("| Enter 'a' to process the 'Applicant Profile Report'  |");
+        System.out.println("| Enter 'b' to process the 'Scholarship Match Report'  |");
+        System.out.println("| Enter 'c' to process the 'Scholarship Status Report' |");
+        System.out.println("| Enter 'x' to exit                                    |");
+        System.out.println("+------------------------------------------------------+");
     }
 
     private static char getUserChoice() {

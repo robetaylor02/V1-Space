@@ -19,12 +19,12 @@ public class Admin {
             // Process the user's choice
             switch (choice) {
                 case 'a':
-                    System.out.println("Generating Report A...");
+                    System.out.println("Generating Scholarship Summary Report...");
                     break;
                 case 'b':
-                    System.out.println("Generating Report B...");
+                    System.out.println("Generating Disbursement Report ...");
                     break;
-                case 'e':
+                case 'x':
                     System.out.println("Exiting program. Goodbye!");
                     System.exit(0);
             }
@@ -35,11 +35,12 @@ public class Admin {
     }
 
     private static void displayMenu() {
-        System.out.println("+------------------------------+");
-        System.out.println("| Enter 'a' to create report A |");
-        System.out.println("| Enter 'b' to create report B |");
-        System.out.println("| Enter 'e' to exit            |");
-        System.out.println("+------------------------------+");
+        System.out.println("+-------------------------------------------------+");
+        System.out.println("| Enter 'a' to process Scholarship Summary Report |");
+        System.out.println("| Enter 'b' to process Disbursement Report        |");
+        System.out.println("| Enter 'x' to exit                               |");
+        System.out.println("+-------------------------------------------------+");
+
     }
 
     private static char getUserChoice() {
