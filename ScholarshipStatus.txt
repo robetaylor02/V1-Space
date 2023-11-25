@@ -1,0 +1,5 @@
+John Doe,Choice Scholarship: In Review,Academic Excellence Grant: Awarded,Global Studies Scholarship: Closed,Dual Student Prize: In Review
+Jane Smith,Entrepreneurship Grant: Closed,Elevated Student Scholarship: In Review,Community Service Award: Awarded,Academic Excellence Grant: Closed
+Bob Johnson,Challenger Grant: In Review,Innovation Scholarship: Awarded,Lasting Science Scholarship: Closed,Humanitarian Prize: In Review
+Emily Davis,Information Systems Excellence Award: Closed,Software Excellence Prize: In Review,Innovation Scholarship: Awarded,Stellar Excellence Prize: Closed
+Michael Wilson,Engineering Excellence Grant: Awarded,Diverse Leadership Scholarship: In Review,Information Innovation Prize: Closed,Future Engineers Scholarship: Awarded
