@@ -1,0 +1,101 @@
+Name                                         | Award Amount | Number of Available Awards | Major                        | GPA Minimum | Due Date
+---------------------------------------------|--------------|-----------------------------|------------------------------|-------------|-------------
+Addler Fund                                  | 10000        | 1                           | Software Engineering         | 3.0         | 12/15/23
+Arlington Award                              | 500          | 5                           | Systems Engineering           | 2.75       | 1/14/24
+Blue Bell Prize                              | 1000         | 10                          | Computer Science              | 3.0         | 2/28/24
+Challenger Grant                             | 1500         | 8                           | Engineering                   | 3.5         | 3/15/24
+Choice Scholarship                           | 1200         | 6                           | Business Administration        | 3.2         | 4/1/24
+Darren Award                                 | 800          | 4                           | Mathematics                   | 3.8         | 4/30/24
+Dual Student Prize                            | 2000         | 3                           | Information Technology         | 3.6         | 5/15/24
+Diversity Achievement Scholarship            | 1300         | 7                           | Engineering                   | 3.4         | 6/1/24
+Entrepreneurship Grant                        | 600          | 12                          | Any                          | 2.9         | 6/30/24
+Elevated Student Scholarship                 | 1800         | 5                           | Information Systems            | 3.7         | 7/15/24
+Community Service Award                       | 700          | 8                           | Software Engineering           | 3.1         | 8/1/24
+Academic Excellence Grant                     | 1600         | 6                           | Any                           | 3.3         | 8/30/24
+Global Studies Scholarship                    | 1100         | 10                          | Engineering                    | 3.2         | 9/15/24
+General Innovation Award                      | 2100         | 4                           | Electrical Engineering          | 3.9         | 10/1/24
+Humanitarian Prize                            | 1400         | 7                           | Computer Science               | 3.5         | 10/30/24
+Informatics Scholarship                       | 750          | 9                           | Information Systems            | 3.0         | 11/15/24
+Systems Engineering Achievement Grant         | 1700         | 5                           | Systems Engineering             | 3.6         | 12/1/24
+Mathematical Sciences Scholarship             | 900          | 8                           | Statistics                     | 3.4         | 12/30/24
+Engineering Leadership Award                  | 1900         | 3                           | Engineering Management          | 3.8         | 1/15/25
+Franklin Engineering Grant                    | 850          | 7                           | Engineering                    | 3.1         | 2/1/25
+Innovation Scholarship                        | 2000         | 6                           | Industrial Engineering         | 3.7         | 2/15/25
+Software Excellence Prize                     | 1200         | 8                           | Software Engineering            | 3.2         | 3/1/25
+Greyland Achievement Scholarship              | 1000         | 5                           | Any                           | 3.5         | 3/30/25
+Jackson Performance Grant                     | 1600         | 4                           | Any                           | 3.3         | 4/15/25
+Lasting Science Scholarship                   | 1100         | 9                           | Engineering                    | 3.4         | 5/1/25
+Information Systems Excellence Award          | 2200         | 3                           | Information Systems             | 3.9         | 5/15/25
+Future Computer Scientist Scholarship         | 1300         | 6                           | Computer Science               | 3.6         | 6/1/25
+Lanklin Electrical Grant                      | 800          | 7                           | Electrical Engineering         | 3.0         | 6/30/25
+Computer Engineering Innovation Prize         | 1800         | 5                           | Computer Engineering            | 3.7         | 7/15/25
+Phillip Achievement Scholarship               | 950          | 8                           | Any                           | 3.2         | 8/1/25
+Pharoah Award                                 | 1900         | 4                           | Engineering                    | 3.5         | 8/30/25
+General Studies Scholarship                    | 1400         | 6                           | Any                           | 3.3         | 9/15/25
+Mechanical Engineering Excellence Grant        | 2100         | 7                           | Mechanical Engineering          | 3.8         | 10/1/25
+Plinth Prize                                  | 1150         | 5                           | Any                           | 3.1         | 10/30/25
+Terrance Innovation Scholarship               | 2300         | 3                           | Computer Science               | 3.9         | 11/15/25
+Taylor Achievement Scholarship                | 850          | 6                           | Any                           | 3.4         | 12/1/25
+Academic Studies Scholarship                   | 1200         | 5                           | Any                           | 3.2         | 12/30/25
+Engineering Excellence Grant                   | 1600         | 4                           | Software Engineering            | 3.5         | 1/15/26
+Diversity and Inclusion Scholarship           | 1100         | 8                           | Any                           | 3.1         | 2/1/26
+Data Science Innovation Prize                  | 2000         | 3                           | Data Science                    | 3.9         | 2/15/26
+International Business Award                   | 1800         | 6                           | Computer Science               | 3.7         | 3/1/26
+Physics Achievement Scholarship                | 950          | 7                           | Physics                        | 3.2         | 3/30/26
+Pearson Information Grant                      | 1400         | 5                           | Information Technology         | 3.3         | 4/15/26
+Diverse Leadership Scholarship                 | 1300         | 4                           | Any                           | 3.5         | 5/1/26
+Stellar Excellence Prize                        | 1700         | 6                           | Any                           | 3.4         | 5/30/26
+Civil Engineering Scholarship                  | 2100         | 3                           | Civil Engineering               | 3.8         | 6/15/26
+Women in STEM Award                            | 1100         | 7                           | Any                           | 3.2         | 7/1/26
+Digital Relations Scholarship                  | 1500         | 5                           | Any                           | 3.6         | 7/30/26
+Computer Graphics Innovation Grant             | 2200         | 4                           | Computer Science               | 3.9         | 8/15/26
+Public Policy Leadership Award                 | 1000         | 6                           | Any                           | 3.5         | 9/1/26
+Community Achievement Scholarship             | 1300         | 8                           | Any                           | 3.1         | 9/30/26
+Graphic Design Prize                           | 1900         | 5                           | Graphic Design                  | 3.7         | 10/15/26
+Mathematics Excellence Scholarship             | 850          | 3                           | Mathematics                     | 3.8         | 11/1/26
+Troy Scholarship                               | 1600         | 6                           | Software Engineering            | 3.4         | 11/30/26
+Business Analytics Innovation Award            | 2000         | 4                           | Business Analytics              | 3.9         | 12/15/26
+William B. Grant                               | 1200         | 7                           | Any                           | 3.2         | 1/1/27
+Future Engineers Scholarship                   | 1400         | 5                           | Engineering                    | 3.6         | 1/30/27
+Cybersecurity Excellence Prize                 | 2300         | 3                           | Cybersecurity                  | 3.7         | 2/15/27
+Gregory A. Achievement Scholarship             | 1100         | 6                           | Systems Engineering            | 3.4         | 3/1/27
+Benton Bell Award                              | 1800         | 4                           | Any                           | 3.8         | 3/15/27
+Supply Chain Management Scholarship             | 950          | 5                           | Any                           | 3.1         | 4/1/27
+Engineer Innovation Grant                      | 2000         | 6                           | Engineering                   | 3.5         | 4/30/27
+Technological Leadership Scholarship            | 1300         | 3                           | Any                           | 3.9         | 5/15/27
+Information Ethics Prize                        | 1700         | 4                           | Any                           | 3.2         | 6/1/27
+Industrial Engineering Excellence Award         | 2100         | 5                           | Industrial Engineering         | 3.6         | 6/30/27
+Oliver F. Scholarship                          | 1000         | 7                           | Any                           | 3.7         | 7/15/27
+Systems Relations Grant                         | 1500         | 4                           | Systems Engineering            | 3.4         | 8/1/27
+Robotics Innovation Scholarship                | 2200         | 6                           | Any                           | 3.8         | 8/30/27
+Justin R. Achievement Scholarship               | 850          | 3                           | Any                           | 3.1         | 9/15/27
+Bear Down Prize                                | 1900         | 5                           | Any                           | 3.5         | 10/1/27
+Social Media Marketing Award                    | 1200         | 4                           | Software Engineering            | 3.9         | 10/30/27
+Computer Studies Scholarship                    | 1600         | 7                           | Computer Science               | 3.2         | 11/15/27
+Architecture Innovation Grant                  | 2000         | 5                           | Any                           | 3.6         | 12/1/27
+Kilington SFWE Scholarship                    | 1100         | 3                           | Software Engineering            | 3.7         | 12/30/27
+Suzanne C. Scholarship                         | 1300         | 4                           | Any                           | 3.3         | 1/15/28
+Information Innovation Prize                    | 1800         | 5                           | Information Systems            | 3.7         | 2/1/28
+Industry Productivity Award                    | 950          | 6                           | Industrial Engineering          | 3.2         | 2/15/28
+International Development Grant                 | 1600         | 3                           | Any                           | 3.5         | 3/1/28
+Cyber Systems Scholarship                       | 2000         | 7                           | Computer Science               | 3.9         | 3/30/28
+Waller Leadership Scholarship                  | 1200         | 4                           | Any                           | 3.1         | 4/15/28
+Future Planning Scholarship                     | 1400         | 5                           | Software Engineering            | 3.6         | 5/1/28
+Financial Technology Innovation Prize           | 1700         | 6                           | Any                           | 3.4         | 5/30/28
+Data Analytics Excellence Award                 | 2100         | 3                           | Systems Engineering             | 3.8         | 6/15/28
+Engineering Informatics Scholarship              | 1100         | 4                           | Engineering                    | 3.2         | 7/1/28
+Digital Media Production Grant                  | 1900         | 5                           | Any                           | 3.7         | 7/30/28
+Sports Marketing Scholarship                    | 1500         | 6                           | Industrial Engineering          | 3.6         | 8/15/28
+Renewable Energy Innovation Scholarship         | 2200         | 3                           | Any                           | 3.9         | 9/1/28
+Philanthropy and Nonprofit Leadership Prize     | 1000         | 4                           | Any                           | 3.5         | 9/30/28
+Arthur Excellence Award                         | 1300         | 5                           | Engineering                    | 3.1         | 10/15/28
+Michael S. Scholarship                          | 1600         | 6                           | Computer Science               | 3.4         | 11/1/28
+Human Computer Interaction Innovation Grant      | 2000         | 3                           | Computer Science               | 3.8         | 11/30/28
+Public Administration Leadership Scholarship    | 1200         | 4                           | Software Engineering            | 3.2         | 12/15/28
+Medical Research Excellence Prize               | 1700         | 5                           | Engineering                    | 3.6         | 1/1/29
+Robert T. Scholarship                           | 1100         | 6                           | Industrial Engineering          | 3.7         | 1/30/29
+Biomedical Innovation Award                      | 1800         | 3                           | Engineering                    | 3.4         | 2/15/29
+Circuit Management Grant                         | 1500         | 4                           | Electrical Engineering          | 3.8         | 3/1/29
+Modern Excellence Scholarship	                 |2100	        |5	                      |Information Technology	        |3.5	      |3/30/29
+Quantum Computing Innovation Prize	         |2000	        |6	                      |Computer Science	                |3.9	      |4/15/29
+Wildcat Achievement Award	                 |1400	        |3	                      |Software Engineering	        |3.1	      |5/1/29
