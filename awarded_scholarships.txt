@@ -1,0 +1,4 @@
+John Doe,Blue Bell Prize,Challenger Grant
+Jane Smith,Academic Excellence Grant,Global Studies Scholarship
+Bob Johnson,Informatics Scholarship,Software Excellence Prize
+Alice Williams,Community Service Award,Diversity Achievement Scholarship
