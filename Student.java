@@ -29,9 +29,11 @@ public class Student {
             case 1:
                 generateApplicantReport(scnr);
                 break;
-            // add application status report and scholarship match report
             case 2: 
-                genrateApplicationStatusReport(scnr);
+                generateApplicationStatusReport(scnr);
+                break;
+            case 3:
+                generateApplicantMatchingReport(scnr);
                 break;
             case 4:
                 menu = false;
@@ -41,7 +43,7 @@ public class Student {
         }
     }
 
-    private static void generateApplicantReport(Scanner scnr) {
+    public static void generateApplicantReport(Scanner scnr) {
         try (BufferedReader personalInfo = new BufferedReader(new FileReader("personal_info.txt"));
              BufferedReader awardedScholarshipsInfo = new BufferedReader(new FileReader("awarded_scholarships.txt"));
              BufferedWriter applicantReportoutputFile = new BufferedWriter(new FileWriter("applicant_report.txt"))){
@@ -50,8 +52,7 @@ public class Student {
             scnr.nextLine();
             String studentName = scnr.nextLine();
 
-            // read file personal info
-            String studentPersonalInfoLine;
+            String studentPersonalInfoLine;//read file
 
             while ((studentPersonalInfoLine = personalInfo.readLine()) != null) {
                 String[] student = studentPersonalInfoLine.split(",");
@@ -62,7 +63,7 @@ public class Student {
                     applicantReportoutputFile.write("GPA: " + student[1] + "\n");
                     applicantReportoutputFile.write("Intended Graduation Year: " + student[2] + "\n");
                     applicantReportoutputFile.write("Major: " + student[3] + "\n\n");
-                    break;
+                    break;// dont think i need this break but it works with it
                 }
             }
 
@@ -84,7 +85,7 @@ public class Student {
         }
     }
 
-    public static void genrateApplicationStatusReport(Scanner scnr){
+    public static void generateApplicationStatusReport(Scanner scnr){
         try (BufferedReader scholarshipStatus = new BufferedReader(new FileReader("ScholarshipStatus.txt"));
             BufferedWriter applicantStatusReportOutputFile = new BufferedWriter(new FileWriter("applicantstatus_report.txt"))) {
 
@@ -111,5 +112,51 @@ public class Student {
         }catch(IOException except){
                 except.printStackTrace();
             }     
+    }
+
+    public static void generateApplicantMatchingReport(Scanner scnr){
+        try (BufferedReader personalInfo = new BufferedReader(new FileReader("personal_info.txt"));
+             BufferedReader scholarshipData = new BufferedReader(new FileReader("ScholarshipData.txt"));
+             BufferedWriter applicantMatchingReportOutputFile = new BufferedWriter(new FileWriter("applicantmatching_report.txt"))) {
+
+            System.out.println("Enter your name: ");
+            scnr.nextLine();
+            String StudentName = scnr.nextLine();
+            
+            String studentPersonalInfoLine;//read file
+
+            while ((studentPersonalInfoLine = personalInfo.readLine()) != null) {
+                String[] student = studentPersonalInfoLine.split(",");
+                if (student[0].equalsIgnoreCase(StudentName.trim())) {
+                    applicantMatchingReportOutputFile.write("Applicant Matching Report for " + student[0] + ":\n");
+                    applicantMatchingReportOutputFile.write("===================================\n");
+                    applicantMatchingReportOutputFile.write("Name: " + student[0] + "\n");
+                    applicantMatchingReportOutputFile.write("GPA: " + student[1] + "\n");
+                    applicantMatchingReportOutputFile.write("Major: " + student[3] + "\n\n");
+
+                    String ScholarshipMatchingLine;
+
+                    while((ScholarshipMatchingLine = scholarshipData.readLine()) != null){
+                        String[] scholarship = ScholarshipMatchingLine.split("\\|");
+                        if(scholarship.length == 6){
+                            String scholarshipMajor = scholarship[3].trim();
+                            double scholarshipminGPA = Double.parseDouble(scholarship[4].trim());
+                            double studentGPA = Double.parseDouble(student[1].trim());
+
+                            if((scholarshipMajor.equalsIgnoreCase(student[3].trim()) && studentGPA >= scholarshipminGPA )){
+                                applicantMatchingReportOutputFile.write("- " + scholarship[0] + "\n");
+                            }
+                        }
+
+                    }
+                        System.out.println("Applicant matching report generated and saved to 'applicantmatching_report.txt'");
+                    
+                }
+            }
+
+        }catch(IOException except){
+            except.printStackTrace();;
+        }
+
     }
 }
