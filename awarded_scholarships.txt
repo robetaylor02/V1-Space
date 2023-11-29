@@ -1,4 +1,58 @@
+Alice Williams,Community Service Award,Diversity Achievement Scholarship
+Alex Davis,Science Achievement Scholarship,Mathematics Excellence Award
+Ava Johnson,Engineering Innovation Award,Women in STEM Scholarship
+Benjamin Martin,Leadership in Technology Scholarship,Computer Science Pioneer Grant
+Chloe Lee,Entrepreneurship Scholarship,Innovation and Creativity Award
+Daniel Miller,Physics Research Grant,STEM Outreach Scholarship
+Emily Davis,Global Citizenship Scholarship,Environmental Sustainability Award
+Frank Swift,Technology and Society Award,Humanitarian Innovation Grant
+Grace Wilson,Software Development Scholarship,Open Source Contribution Grant
+Isabella Turner,Electrical Engineering Excellence Scholarship,Inclusive Technology Award
 John Doe,Blue Bell Prize,Challenger Grant
 Jane Smith,Academic Excellence Grant,Global Studies Scholarship
-Bob Johnson,Informatics Scholarship,Software Excellence Prize
-Alice Williams,Community Service Award,Diversity Achievement Scholarship
+Jackson Davis,Computer Science Research Grant,Artificial Intelligence Scholarship
+Jessica White,Innovation in Education Award,Future Educators Scholarship
+Kevin Brown,Physics Olympiad Scholarship,Quantum Computing Grant
+Lily Martin,Women in Technology Scholarship,Data Science Excellence Award
+Matthew Harris,Mathematics Research Grant,Applied Mathematics Scholarship
+Michael Jackson,Human-Centered Design Award,User Experience Innovation Scholarship
+Noah Taylor,Information Systems Leadership Scholarship,IT Service Excellence Grant
+Olivia Turner,Computer Science Ethics Award,Ethical AI Scholarship
+Owen Turner,Mathematics Outreach Grant,Community Engagement Scholarship
+Penelope Wilson,Electrical Engineering Innovation Scholarship,Robotics Pioneer Award
+Robert Johnson,Physics Outreach Scholarship,Space Exploration Grant
+Ryan Wilson,Software Engineering Excellence Award,Agile Development Scholarship
+Samantha Johnson,Physics Excellence Scholarship,Astrophysics Research Grant
+Scarlett Davis,Women in Engineering Scholarship,Leadership in STEM Award
+Sebastian Miller,Data Analytics Scholarship,Big Data Innovation Grant
+Sophia White,Computer Science for Social Good Award,Technology and Society Scholarship
+Stella Johnson,Information Systems Research Grant,Cybersecurity Excellence Award
+Tony Stark,Artificial Intelligence Ethics Scholarship,Ethical Tech Innovator Award
+William Taylor,Computer Science Entrepreneurship Award,Startup Innovation Grant
+Zoe Taylor,Environmental Engineering Scholarship,Sustainable Technology Award
+Alice Turner,Mathematics for Social Impact Award,Community Outreach Scholarship
+Bob Davis,Physics Innovation Grant,Quantum Information Science Scholarship
+Charlie Martin,Software Engineering for Social Change Award,Humanitarian Tech Grant
+Diana Wilson,Women in Computer Science Scholarship,Gender Diversity in Tech Award
+Eva Harris,Electrical Engineering Leadership Award,Innovative Energy Solutions Grant
+Felix Brown,Physics for Sustainable Development Scholarship,Renewable Energy Innovation Award
+Grace Turner,Information Technology Ethics Scholarship,Digital Ethics Excellence Grant
+Hannah Davis,Mechanical Engineering Excellence Award,Advanced Manufacturing Scholarship
+Ian Smith,Innovation in Information Systems Award,Blockchain Technology Scholarship
+Jasmine Reed,Computer Science for Education Innovation Award,STEM Teacher Excellence Grant
+Keith Johnson,Software Engineering Research Grant,Software Architecture Excellence Award
+Lila White,Women in Software Development Scholarship,Open Source Contribution Grant
+Mason Taylor,Computer Science and Music Scholarship,Technology in the Arts Award
+Nora Harris,Information Systems for Healthcare Innovation Scholarship,Health Tech Excellence Grant
+Oliver Turner,Electrical Engineering for Smart Cities Award,Urban Infrastructure Innovation Scholarship
+Paige Brown,Software Engineering for Gaming Award,Game Development Excellence Grant
+Quinn Martin,Mechanical Engineering for Environmental Sustainability Scholarship,Sustainable Engineering Innovation Award
+Rachel Wilson,Technology and the Law Scholarship,Legal Tech Innovation Grant
+Samuel Davis,Physics for Space Exploration Award,Aerospace Engineering Excellence Scholarship
+Tina Martin,Information Technology for Social Justice Scholarship,Social Impact Tech Grant
+Ulysses Smith,Environmental Engineering for Clean Water Scholarship,Water Technology Innovation Award
+Vera Turner,Computer Science and Business Innovation Award,Technology Entrepreneurship Scholarship
+Wesley Harris,Mechanical Engineering for Robotics Excellence Award,Robotic Systems Innovation Grant
+Xavier Wilson,Software Engineering for Cybersecurity Scholarship,Cybersecurity Innovation Award
+Yvonne Davis,Technology and Human Rights Scholarship,Human Rights in Tech Grant
+Zachary Turner,Artificial Intelligence in Healthcare Award,Health Tech AI Innovation Scholarship

@@ -1,0 +1,12 @@
+===================================
+Applicant Report for Emily Davis:
+===================================
+Name: Emily Davis
+GPA: 3.9
+Intended Graduation Year: 2024
+Major: Computer Science
+
+===================================
+Previously awarded scholarships:
+- Global Citizenship Scholarship
+- Environmental Sustainability Award

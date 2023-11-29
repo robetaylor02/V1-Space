@@ -1,0 +1,51 @@
+// Name, award amount, number of available awards, status, due date
+Community Achievement Scholarship,1300,8,Closed,9/30/23
+Graphic Design Prize,1900,5,In-Review,10/15/23
+Mathematics Excellence Scholarship,850,3,In-Review,11/1/23
+Troy Scholarship,1600,6,In-Review,11/30/23
+Business Analytics Innovation Award,2000,4,In-Review,11/15/23
+William B. Grant,1200,7,In-Review,11/1/23
+Future Engineers Scholarship,1400,5,In-Review,11/30/23
+Cybersecurity Excellence Prize,2300,3,In-Review,11/12/23
+Gregory A. Achievement Scholarship,1100,6,Closed,9/1/23
+Benton Bell Award,1800,4,Closed,9/15/23
+Supply Chain Management Scholarship,950,5,Closed,9/1/23
+Engineer Innovation Grant,2000,6,Closed,9/30/23
+Technological Leadership Scholarship,1300,3,Closed,9/15/23
+Information Ethics Prize,1700,4,Closed,10/2/23
+Industrial Engineering Excellence Award,2100,5,Closed,9/30/23
+Oliver F. Scholarship,1000,7,Closed,9/15/23
+Systems Relations Grant,1500,4,Closed,8/14/23
+Robotics Innovation Scholarship,2200,6,Closed,8/30/23
+Justin R. Achievement Scholarship,850,3,Closed,9/15/23
+Bear Down Prize,1900,5,Closed,8/1/23
+Social Media Marketing Award,1200,4,In-Review,10/30/23
+Computer Studies Scholarship,1600,7,In-Review,11/15/23
+Architecture Innovation Grant,2000,5,Closed,8/19/23
+Kilington SFWE Scholarship,1100,3,In-Review,11/24/23
+Suzanne C. Scholarship,1300,4,In-Review,11/15/23
+Information Innovation Prize,1800,5,In-Review,11/1/23
+Industry Productivity Award,950,6,In-Review,11/17/23
+International Development Grant,1600,3,In-Review,10/1/23
+Cyber Systems Scholarship,2000,7,In-Review,10/30/23
+Waller Leadership Scholarship,1200,4,In-Review,10/15/23
+Future Planning Scholarship,1400,5,Closed,10/1/23
+Financial Technology Innovation Prize,1700,6,In-Review,11/30/23
+Data Analytics Excellence Award,2100,3,In-Review,11/13/23
+Engineering Informatics Scholarship,1100,4,In-Review,11/1/23
+Digital Media Production Grant,1900,5,In-Review,10/30/23
+Sports Marketing Scholarship,1500,6,Closed,8/15/23
+Renewable Energy Innovation Scholarship,2200,3,Closed,9/1/23
+Philanthropy and Nonprofit Leadership Prize,1000,4,Closed,9/30/23
+Arthur Excellence Award,1300,5,In-Review,10/5/23
+Michael S. Scholarship,1600,6,In-Review,11/1/23
+Human Computer Interaction Innovation Grant,2000,3,In-Review,11/30/23
+Public Administration Leadership Scholarship,1200,4,In-Review,10/16/23
+Medical Research Excellence Prize,1700,5,In-Review,10/1/23
+Robert T. Scholarship,1100,6,In-Review,10/30/23
+Biomedical Innovation Award,1800,3,In-Review,10/19/23
+Circuit Management Grant,1500,4,In-Review,10/1/23
+Modern Excellence Scholarship,2100,5,Closed,9/30/23
+Quantum Computing Innovation Prize,2000,6,In-Review,10/15/23
+Wildcat Achievement Award,1400,3,Closed,10/1/23
+Baxter Benevolence Prize,1000,5,In-Review,11/12/23

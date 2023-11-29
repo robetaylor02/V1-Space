@@ -1,7 +1,24 @@
-John Doe,Choice Scholarship:Submitted,Academic Excellence Grant:Submitted,Dual Student Prize:In-Review
-Jane Smith,Entrepreneurship Grant:Submitted,Elevated Student Scholarship:Submitted,Community Service Award:Submitted,Academic Excellence Grant:In-Review
-Bob Johnson,Challenger Grant:Submitted,Innovation Scholarship:Submitted,Lasting Science Scholarship:Submitted,Humanitarian Prize:In-Review
-Emily Davis,Information Systems Excellence Award:Submitted,Software Excellence Prize:Submitted,Innovation Scholarship:In-Review,Stellar Excellence Prize:In-Review
-Michael Wilson,Engineering Excellence Grant:Submitted,Diverse Leadership Scholarship:Submitted,Information Innovation Prize:Submitted,Future Engineers Scholarship:In-Review,Cybersecurity Excellence Prize:In-Review,Gregory A. Achievement Scholarship:In-Review
-Alice Williams,Global Studies Scholarship:Submitted,General Innovation Award:Submitted,Humanitarian Prize:Submitted,Dual Student Prize:In-Review,Entrepreneurship Grant:In-Review
-Jane Davis,Choice Scholarship:Submitted,Entrepreneurship Grant:Submitted,Academic Excellence Grant:Submitted,Dual Student Prize:In-Review,Information Systems Excellence Award:In-Review
+Addison Lee,Addler Fund:Submitted,International Business Award:Submitted,Humanitarian Prize:Submitted,Mathematical Sciences Scholarship:Submitted,Lasting Science Scholarship:In-Review
+Alexander Davis,Lanklin Electrical Grant:Submitted,Plinth Prize:In-Review,Diversity Achievement Scholarship:In-Review,Challenger Grant:Submitted,Arlington Award:Submitted
+Amanda Miller,Elevated Student Scholarship:In-Review,Plinth Prize:In-Review,Taylor Achievement Scholarship:Submitted,Digital Relations Scholarship:Submitted
+Andrew Davis,Public Policy Leadership Award:In-Review,International Business Award:Submitted,Dual Student Prize:Submitted,Computer Engineering Innovation Prize:Submitted
+Ashley Martin,Engineering Excellence Grant:Submitted,Humanitarian Prize:Submitted,Diversity Achievement Scholarship:In-Review,Lasting Science Scholarship:In-Review
+Ava Johnson,Jackson Performance Grant:Submitted,Humanitarian Prize:Submitted,Taylor Achievement Scholarship:Submitted,Blue Bell Prize:Submitted,Arlington Award:Submitted
+Benjamin Martin,Lanklin Electrical Grant:In-Review,Humanitarian Prize:Submitted,Dual Student Prize:Submitted,Digital Relations Scholarship:Submitted,Stellar Excellence Prize:Submitted
+Brian Taylor,Engineering Excellence Grant:Submitted,International Business Award:Submitted,Mathematical Sciences Scholarship:Submitted,Lasting Science Scholarship:In-Review
+Chloe Lee,Addler Fund:Submitted,Plinth Prize:In-Review,Taylor Achievement Scholarship,Challenger Grant:Submitted,Greyland Achievement Scholarship:Submitted
+Christopher Lee,Elevated Student Scholarship:In-Review,Taylor Achievement Scholarship:Submitted,Diversity Achievement Scholarship:In-Review,Arlington Award:Submitted
+Daniel Miller,Public Policy Leadership Award:Submitted,International Business Award:Submitted,Mathematical Sciences Scholarship:Submitted,Lasting Science Scholarship:In-Review
+Dylan Harris,Lanklin Electrical Grant:Submitted,Diversity Achievement Scholarship:In-Review,Digital Relations Scholarship:Submitted,Computer Engineering Innovation Prize:Submitted
+Emily Davis,Jackson Performance Grant:In-Review,Plinth Prize:In-Review,Mathematical Sciences Scholarship:Submitted,Blue Bell Prize:Submitted,Arlington Award:Submitted
+Ethan Harris,Engineering Excellence Grant:In-Review,Diversity Achievement Scholarship:In-Review,Digital Relations Scholarship:Submitted,Lasting Science Scholarship:In-Review
+Frank Swift,Addler Fund:Submitted,International Business Award:Submitted,Taylor Achievement Scholarship:Submitted,Greyland Achievement Scholarship:Submitted
+Grace Wilson,Digital Relations Scholarship:Submitted,Diversity Achievement Scholarship:In-Review,Challenger Grant:Submitted,Computer Engineering Innovation Prize:Submitted
+Isabella Turner,Lanklin Electrical Grant:Submitted,Plinth Prize:In-Review,Dual Student Prize:Submitted,Greyland Achievement Scholarship:Submitted,Stellar Excellence Prize:Submitted
+Isaiah Reed,Jackson Performance Grant:In-Review,Humanitarian Prize:Submitted,Mathematical Sciences Scholarship:Submitted,Blue Bell Prize:Submitted,Arlington Award:Submitted
+Jackson Davis,Lanklin Electrical Grant:In-Review,International Business Award:Submitted,Digital Relations Scholarship:Submitted,Lasting Science Scholarship:In-Review
+Jacob Miller,Public Policy Leadership Award:Submitted,Taylor Achievement Scholarship:Submitted,Challenger Grant:Submitted,Computer Engineering Innovation Prize:Submitted
+Jane Smith,Addler Fund:Submitted,Humanitarian Prize:Submitted,Diversity Achievement Scholarship:In-Review,Digital Relations Scholarship:Submitted,Arlington Award:Submitted
+Jessica White,Engineering Excellence Grant:In-Review,International Business Award:Submitted,Mathematical Sciences Scholarship:Submitted,Lasting Science Scholarship:In-Review
+John Doe,Elevated Student Scholarship:In-Review,Taylor Achievement Scholarship:Submitted,Dual Student Prize:Submitted,Greyland Achievement Scholarship:Submitted
+Kevin Brown,Addler Fund:Submitted,Plinth Prize:In-Review,Humanitarian Prize:Submitted,Diversity Achievement Scholarship:In-Review,Blue Bell Prize:Submitted
