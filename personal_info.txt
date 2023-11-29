@@ -1,4 +1,50 @@
-John Doe,3.5,2023,Computer Science
-Jane Smith,3.8,2022,Electrical Engineering
-Bob Johnson,3.2,2024,Software Engineering
-Alice Williams,3.6,2023,Mechanical Engineering
+Addison Lee,3.4,2027,Computer Science
+Alexander Davis,3.2,2025,Software Engineering
+Amanda Miller,3.8,2024,Computer Science
+Andrew Davis,3.7,2026,Information Systems
+Ashley Martin,3.1,2026,Electrical Engineering
+Ava Johnson,3.4,2025,Computer Science
+Bailey Zaxby,3.2,2025,Physics
+Benjamin Martin,3.5,2027,Software Engineering
+Brian Taylor,3.5,2027,Information Systems
+Chloe Lee,3.9,2024,Computer Science
+Christopher Lee,3.7,2025,Mechanical Engineering
+Daniel Miller,3.6,2026,Physics
+Dylan Harris,3.5,2027,Software Engineering
+Emily Davis,3.9,2024,Computer Science
+Ethan Harris,3.7,2026,Mechanical Engineering
+Frank Swift,3.0,2027,Software Engineering
+Grace Wilson,3.9,2024,Software Engineering
+Isabella Turner,3.1,2025,Electrical Engineering
+Isaiah Reed,2.9,2026,Industrial Engineering
+Jackson Davis,3.7,2026,Computer Science
+Jacob Miller,3.6,2027,Software Engineering
+Jane Smith,3.8,2024,Information Systems
+Jessica White,3.8,2024,Computer Science
+John Doe,3.5,2027,Computer Science
+Kevin Brown,3.2,2025,Physics
+Kailee Flip,3.1,2025,Software Engineering
+Lauren Smith,3.1,2026,Electrical Engineering
+Lily Martin,3.8,2024,Software Engineering
+Logan Brown,3.6,2027,Mechanical Engineering
+Madison White,3.1,2026,Electrical Engineering
+Matthew Harris,3.2,2025,Mathematics
+Mia Brown,3.6,2027,Software Engineering
+Michael Jackson,3.8,2024,Computer Science
+Noah Taylor,3.7,2026,Information Systems
+Olivia Turner,3.9,2024,Computer Science
+Owen Turner,3.2,2025,Mathematics
+Penelope Wilson,3.1,2026,Electrical Engineering
+Peter Parker,4.0,2026,Software Engineering
+Robert Johnson,3.2,2025,Physics
+Ryan Wilson,3.5,2027,Software Engineering
+Samantha Johnson,3.4,2026,Physics
+Sarah Wilson,3.4,2026,Electrical Engineering
+Scarlett Davis,3.1,2026,Electrical Engineering
+Sebastian Miller,3.5,2027,Software Engineering
+Sophia White,3.4,2024,Computer Science
+Stella Johnson,3.8,2024,Information Systems
+Steve Rogers,3.4,2026,Industrial Engineering
+Tony Stark,4.0,2024,Computer Science
+William Taylor,3.6,2027,Software Engineering
+Zoe Taylor,3.4,2024,Computer Science

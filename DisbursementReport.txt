@@ -1,0 +1,7 @@
+============================
+Disbursement Report for Ryan Wilson - Academic Studies Scholarship:
+============================
+Recipient Name		: Ryan Wilson
+Scholarship Name	: Academic Studies Scholarship
+Disbursement Amount	: $1200.0
+Disbursement Date	: 05/01/24

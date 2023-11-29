@@ -1,5 +1,26 @@
-John Doe,Choice Scholarship: In Review,Academic Excellence Grant: Awarded,Global Studies Scholarship: Closed,Dual Student Prize: In Review
-Jane Smith,Entrepreneurship Grant: Closed,Elevated Student Scholarship: In Review,Community Service Award: Awarded,Academic Excellence Grant: Closed
-Bob Johnson,Challenger Grant: In Review,Innovation Scholarship: Awarded,Lasting Science Scholarship: Closed,Humanitarian Prize: In Review
-Emily Davis,Information Systems Excellence Award: Closed,Software Excellence Prize: In Review,Innovation Scholarship: Awarded,Stellar Excellence Prize: Closed
-Michael Wilson,Engineering Excellence Grant: Awarded,Diverse Leadership Scholarship: In Review,Information Innovation Prize: Closed,Future Engineers Scholarship: Awarded
+Kailee Flip,General Innovation Award: Awarded, Mechanical Engineering Excellence Grant: Awarded,Civil Engineering Scholarship: Closed
+Lauren Smith,General Innovation Award: Closed,Physics Achievement Scholarship: In-Review,Innovation Scholarship: Awarded
+Lily Martin,Engineering Leadership Award: Awarded,General Innovation Award: Closed,Civil Engineering Scholarship: Awarded
+Logan Brown,Future Computer Scientist Scholarship: Awarded,Informatics Scholarship: Closed,Women in STEM Award: In-Review
+Madison White,Community Service Award: Awarded,Informatics Scholarship: Closed,Academic Studies Scholarship: Awarded
+Matthew Harris,Engineering Leadership Award: Awarded,Civil Engineering Scholarship: Awarded,Innovation Scholarship: Closed
+Mia Brown,Mechanical Engineering Excellence Grant: Closed,Informatics Scholarship: Closed,Women in STEM Award: Awarded
+Michael Jackson,Physics Achievement Scholarship: In-Review,Civil Engineering Scholarship: Closed, Pearson Information Grant: Closed
+Noah Taylor,Engineering Leadership Award: Closed,Informatics Scholarship: Awarded,Innovation Scholarship: Closed
+Olivia Turner,Future Computer Scientist Scholarship: Closed,Engineering Leadership Award: Awarded,Informatics Scholarship: Closed
+Owen Turner,Physics Achievement Scholarship: In-Review,Civil Engineering Scholarship: Closed,Innovation Scholarship: Awarded
+Penelope Wilson,Future Computer Scientist Scholarship: Closed,Academic Studies Scholarship: Awarded,Women in STEM Award: In-Review
+Peter Parker,Mechanical Engineering Excellence Grant: Awarded,Informatics Scholarship: Awarded, Pearson Information Grant: Closed
+Robert Johnson,Community Service Award: Closed,Civil Engineering Scholarship: Awarded,Innovation Scholarship: Closed
+Ryan Wilson,Engineering Leadership Award: Closed,Academic Studies Scholarship: Awarded,Pearson Information Grant: Closed
+Samantha Johnson,General Innovation Award: Awarded,Informatics Scholarship: Closed,Women in STEM Award: In-Review
+Sarah Wilson,Community Service Award: Awarded,Civil Engineering Scholarship: Awarded,Innovation Scholarship: Closed
+Scarlett Davis,Future Computer Scientist Scholarship: Closed,General Innovation Award:Closed,, Pearson Information Grant: Awarded
+Sebastian Miller,Physics Achievement Scholarship: In-Review,Academic Studies Scholarship: Closed,Terrance Innovation Scholarship: Awarded
+Sophia White,Engineering Leadership Award: Closed,Informatics Scholarship: Closed,Women in STEM Award: In-Review
+Stella Johnson,Mechanical Engineering Excellence Grant: Closed,Civil Engineering Scholarship: Awarded,Stellar Excellence Prize: Awarded
+Steve Rogers,Informatics Scholarship: Closed,Informatics Scholarship: Awarded,Academic Studies Scholarship: Closed,
+Tony Stark,General Innovation Award: Awarded,Physics Achievement Scholarship: In-Review,Innovation Scholarship: Awarded
+William Taylor,Future Computer Scientist Scholarship: Closed,Informatics Scholarship: Closed,Pearson Information Grant: Awarded
+Zoe Taylor,Engineering Leadership Award: Awarded, Mechanical Engineering Excellence Grant: Closed,Women in STEM Award: In-Review
+

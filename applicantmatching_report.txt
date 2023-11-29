@@ -1,0 +1,18 @@
+Applicant Matching Report for Chloe Lee:
+===================================
+Name: Chloe Lee
+GPA: 3.9
+Major: Computer Science
+
+- Blue Bell Prize                  
+- Humanitarian Prize               
+- Future Computer Scientist Scholarship
+- Terrance Innovation Scholarship
+- International Business Award    
+- Computer Graphics Innovation Grant
+- Blue Bell Prize                  
+- Humanitarian Prize               
+- Future Computer Scientist Scholarship
+- Terrance Innovation Scholarship
+- International Business Award    
+- Computer Graphics Innovation Grant
